@@ -1,4 +1,4 @@
-# Zerodha_Clone 🥇
+# Zerodha_Clone 📈
 
 A web development project aimed at replicating certain features of the Zerodha trading platform.
 
